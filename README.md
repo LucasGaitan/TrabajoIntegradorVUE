@@ -1,4 +1,4 @@
-# ecommerce
+# TrabajoIntegradorVUE
 
 ## Project setup
 ```
